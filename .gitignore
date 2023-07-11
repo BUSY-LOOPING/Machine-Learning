@@ -1,2 +1,12 @@
-cnn/logs/
-projects/face-detection-boundingbox/data
+.ipynb_checkpoints
+*logs/
+projects/
+college/
+gan and variational autoencoders/
+reinforcement learning/
+large_files/
+optimizers/
+DhruvYadav5708_DM/
+*.h5f.*
+*.h5
+rnn/
